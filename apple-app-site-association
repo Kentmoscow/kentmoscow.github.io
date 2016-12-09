@@ -1,0 +1,11 @@
+{
+"applinks": {
+"apps": [],
+"details": [
+  {
+    "appID": "UMPAKRKNZQ.net.papirus.iphoneclient",
+    "paths": [ "NOT /ru/blog/*", "NOT /en/blog/*",  "NOT /form/*", "NOT /blog/*","/*" ]
+  }
+]
+}
+}
